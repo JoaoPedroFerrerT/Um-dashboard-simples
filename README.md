@@ -1,7 +1,7 @@
 # Um-dashboard-simples
 dashboard feito com python
 
-#Bibliotecas usadas:
+# Bibliotecas usadas:
 streamlit
 potly
 pandas
