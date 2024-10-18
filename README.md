@@ -2,6 +2,6 @@
 dashboard feito com python
 
 # Bibliotecas usadas:
-streamlit
-potly
-pandas
+* streamlit
+* potly
+* pandas
