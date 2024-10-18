@@ -1,5 +1,5 @@
 # Um-dashboard-simples
-dashboard feito com python
+dashboard de vendas muito simples feito com python
 
 # Bibliotecas usadas:
 * streamlit
